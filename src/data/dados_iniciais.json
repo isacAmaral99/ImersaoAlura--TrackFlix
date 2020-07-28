@@ -96,23 +96,27 @@
             ]
         },
         {
-            "titulo": "Filmes",
+            "titulo": "Filmes e Series",
             "cor": "orange",
             "videos": [{
-                    "titulo": "Interestellar",
-                    "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+                    "titulo": "Guardiões da Galáxia Vol 2 - Trailer Legendado",
+                    "url": "https://www.youtube.com/watch?v=4-i8nTNSQFI"
                 },
                 {
-                    "titulo": "Gattaca",
-                    "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+                    "titulo": "O Poderoso Chefão",
+                    "url": "https://www.youtube.com/watch?v=y_-YWEot_7w"
                 },
                 {
-                    "titulo": "A Chegada",
-                    "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+                    "titulo": "Peaky Blinders ",
+                    "url": "https://www.youtube.com/watch?v=Ruyl8_PT_y8"
                 },
                 {
-                    "titulo": "Feitiço do Tempo",
-                    "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+                    "titulo": "Vingadores - Guerra Infinita | Trailer Oficial",
+                    "url": "https://www.youtube.com/watch?v=t_ULBP6V9bg"
+                },
+                {
+                    "titulo": "Sherlock Holmes",
+                    "url": "https://www.youtube.com/watch?v=Wt2kj81Rcdc"
                 }
             ]
         },
@@ -124,12 +128,12 @@
                 "url": "https://www.alura.com.br/formacao-jogos-unity"
             },
             "videos": [{
-                    "titulo": "Final Fantasy 7",
-                    "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+                    "titulo": "10 SUPER DICAS COD WARZONE",
+                    "url": "https://www.youtube.com/watch?v=mC0D94LusQM"
                 },
                 {
-                    "titulo": "Assassins Creed Valhalla",
-                    "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+                    "titulo": "Mazu Gamer || Game play matinal SÓ OS MELHORES!!!",
+                    "url": "https://www.youtube.com/watch?v=Vh-GhGzhyEI"
                 },
                 {
                     "titulo": "God of War 4",
