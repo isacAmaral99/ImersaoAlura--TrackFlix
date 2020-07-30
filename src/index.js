@@ -6,7 +6,7 @@ import './index.css';
 import {BrowserRouter,Switch,Route } from 'react-router-dom';
 import CadastroVideo from './pages/cadastro/video';
 import Home from './pages/Home/App';
-import CadastroCategoria from './pages/cadastro/categoria'
+import CadastroCategoria from './pages/cadastro/categoria';
 
 ReactDOM.render( 
     <BrowserRouter >
