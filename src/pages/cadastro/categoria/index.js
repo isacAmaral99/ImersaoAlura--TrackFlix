@@ -26,7 +26,7 @@ function CadastroCategoria() {
   }
 
   useEffect(() =>{
-    const url ='http://localhost:8080/categorias';
+    const url ='https://track-flixalura.herokuapp.com/categorias';
     fetch(url).then(async(respostaDoServidor) => {
       const resposta = await respostaDoServidor.json();
       setCategorias([
